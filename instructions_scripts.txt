@@ -1,0 +1,30 @@
+*** Developer-Portfolio   ***
+*** Mathias Muenscher     *** 
+Student for Applied Informatics, HTW Berlin,
+Diplom-Volkswirt (MSc Econ)
+Email:
+Mathias.Muenscher@gmx.de
+
+*** Scripts for Bash Shell***
+Mission:
+-Script1 calculates all numbers within an range.
+
+-Script2 opens the file "name.dat" and prints the 2nd and 3rd collum.
+
+-Script3 generates 600 random numbers and analyses the standard deviation
+
+-Script 4 counts the appearance of the words of a file specified by parameter. The words are listed by frequency
+
+
+Run scripts:
+1 Script:
+./sum_up.sh <interval_start> <interval_end>
+2 Script:
+./collum_print.sh
+3 Script:
+./random_analysis.sh
+4 Script:
+./worcount <textfile>
+
+Documentation:
+Original assignment and code-comments are in German!
